@@ -1,8 +1,8 @@
 # Hello 👋
 
-![](https://img.shields.io/github/followers/AhmetFurkanDEMIR?style=social) ![](https://img.shields.io/github/watchers/AhmetFurkanDEMIR/AhmetFurkanDEMIR?style=social)
+![](https://img.shields.io/github/followers/AhmetFurkanDEMIR?style=social) ![](https://img.shields.io/github/watchers/AhmetFurkanDEMIR/AhmetFurkanDEMIR?style=social) [![ built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://github.com/AhmetFurkanDEMIR) ![](https://forthebadge.com/images/badges/powered-by-electricity.svg) 
 
- [![ built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://github.com/AhmetFurkanDEMIR) ![](https://forthebadge.com/images/badges/powered-by-electricity.svg) [![](https://img.shields.io/website?style=for-the-badge&up_color=green&up_message=Ahmet%20Furkan%20DEMIR&url=http%3A%2F%2Fahmetfurkandemir.com%2F)](http://ahmetfurkandemir.com/)
+[![](https://img.shields.io/website?style=for-the-badge&up_color=green&up_message=Ahmet%20Furkan%20DEMIR&url=http%3A%2F%2Fahmetfurkandemir.com%2F)](http://ahmetfurkandemir.com/)
 [![Linkedin Badge](https://img.shields.io/badge/Ahmet_Furkan_DEMIR-follow%20on%20linkedin-red?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/1dfurkan/) [![Kaggle Badge](https://img.shields.io/badge/Ahmet_Furkan_DEMIR-follow%20on%20kaggle-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/ahmetfurkandemr)
 
 * Im Ahmet Furkan DEMİR
