@@ -41,6 +41,6 @@
 
 ## The modules I use
 
-![](https://img.shields.io/badge/Pytorch--cD1?style=for-the-badge&logo=pytorch) ![](https://img.shields.io/badge/Keras--cD1?style=for-the-badge&logo=keras) ![](https://img.shields.io/badge/Tensorflow--cD1?style=for-the-badge&logo=tensorflow)
-![](https://img.shields.io/badge/Scikit-learn-cD1?style=for-the-badge&logo=) ![](https://img.shields.io/badge/Pandas--cD1?style=for-the-badge&logo=Pandas) ![](https://img.shields.io/badge/numpy--cD1?style=for-the-badge&logo=Numpy) 
+[![](https://img.shields.io/badge/Pytorch--cD1?style=for-the-badge&logo=pytorch)](https://pytorch.org/)  [![](https://img.shields.io/badge/Keras--cD1?style=for-the-badge&logo=keras)](https://keras.io/)  [![](https://img.shields.io/badge/Tensorflow--cD1?style=for-the-badge&logo=tensorflow)
+![](https://img.shields.io/badge/Scikit-learn-cD1?style=for-the-badge&logo=)](https://scikit-learn.org/)  [![](https://img.shields.io/badge/Pandas--cD1?style=for-the-badge&logo=Pandas)](https://pandas.pydata.org/)  [![](https://img.shields.io/badge/numpy--cD1?style=for-the-badge&logo=Numpy)](https://numpy.org/)
 
