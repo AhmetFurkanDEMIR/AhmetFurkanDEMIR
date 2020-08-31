@@ -1,6 +1,6 @@
 # Hello 👋
 
-[![](https://img.shields.io/github/followers/AhmetFurkanDEMIR?style=social)](https://github.com/AhmetFurkanDEMIR)  [![](https://img.shields.io/github/watchers/AhmetFurkanDEMIR/AhmetFurkanDEMIR?style=social)](https://github.com/AhmetFurkanDEMIR)
+[![](https://img.shields.io/github/followers/AhmetFurkanDEMIR?style=social)](https://github.com/AhmetFurkanDEMIR)  [![](https://gpvc.arturio.dev/AhmetFurkanDEMIR?style=plastic)](https://github.com/AhmetFurkanDEMIR)
 
 [![](https://img.shields.io/website?style=for-the-badge&up_color=green&up_message=Ahmet%20Furkan%20DEMIR&url=http%3A%2F%2Fahmetfurkandemir.com%2F)](http://ahmetfurkandemir.com/)
 
