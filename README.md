@@ -34,9 +34,9 @@
 
 ## The programming languages I use
 
-[![pngegg(2)](https://img.shields.io/badge/Python--cD1?style=for-the-badge&logo=python)](https://github.com/AhmetFurkanDEMIR/Python-Workouts)  [![pngegg(3)](https://img.shields.io/badge/dart--cD1?style=for-the-badge&logo=dart)](https://github.com/AhmetFurkanDEMIR/Dart-Workouts)  [![flutter-seeklogo com](https://img.shields.io/badge/flutter--cD1?style=for-the-badge&logo=flutter)](https://flutter.dev/)
+[![pngegg(2)](https://img.shields.io/badge/Python--cD1?style=for-the-badge&logo=python)](https://github.com/AhmetFurkanDEMIR/Python-Workouts)  [![pngegg(3)](https://img.shields.io/badge/dart--cD1?style=for-the-badge&logo=dart)](https://github.com/AhmetFurkanDEMIR/Dart-Workouts)  [![flutter-seeklogo com](https://img.shields.io/badge/flutter--cD1?style=for-the-badge&logo=flutter)](https://flutter.dev/) [![pngegg(2)](https://img.shields.io/badge/Java--cD1?style=for-the-badge&logo=java)](https://github.com/AhmetFurkanDEMIR/Java-Workouts)  
 
-[![pngegg(2)](https://img.shields.io/badge/Java--cD1?style=for-the-badge&logo=java)](https://github.com/AhmetFurkanDEMIR/Java-Workouts)  [![pngegg](https://img.shields.io/badge/C-Programming_Language-cD1?style=for-the-badge&logo)](https://github.com/AhmetFurkanDEMIR/C-CPP-Workouts)  [![pngegg(1)](https://img.shields.io/badge/C++-Programming_Language-cD1?style=for-the-badge&logo)](https://github.com/AhmetFurkanDEMIR/C-CPP-Workouts)
+[![pngegg](https://img.shields.io/badge/C-Programming_Language-cD1?style=for-the-badge&logo)](https://github.com/AhmetFurkanDEMIR/C-CPP-Workouts)  [![pngegg(1)](https://img.shields.io/badge/C++-Programming_Language-cD1?style=for-the-badge&logo)](https://github.com/AhmetFurkanDEMIR/C-CPP-Workouts)
 
 
 ## The modules I use
