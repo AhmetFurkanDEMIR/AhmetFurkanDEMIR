@@ -34,9 +34,9 @@
 
 ## The programming languages I use
 
-[![pngegg(2)](https://user-images.githubusercontent.com/54184905/91660032-3d472980-eadc-11ea-950b-b36b0003dd15.png)](https://github.com/AhmetFurkanDEMIR/Python-Workouts)  [![pngegg(3)](https://user-images.githubusercontent.com/54184905/91660054-6a93d780-eadc-11ea-8ff6-406bf59bdba1.png)](https://github.com/AhmetFurkanDEMIR/Dart-Workouts)  [![flutter-seeklogo com](https://user-images.githubusercontent.com/54184905/91660443-91eba400-eade-11ea-9372-e64982f76d4d.png)](https://flutter.dev/)
+[![pngegg(2)](https://img.shields.io/badge/Python--cD1?style=for-the-badge&logo=python)](https://github.com/AhmetFurkanDEMIR/Python-Workouts)  [![pngegg(3)](https://img.shields.io/badge/dart--cD1?style=for-the-badge&logo=dart)](https://github.com/AhmetFurkanDEMIR/Dart-Workouts)  [![flutter-seeklogo com](https://img.shields.io/badge/flutter--cD1?style=for-the-badge&logo=flutter)](https://flutter.dev/)
 
-[![pngegg(2)](https://user-images.githubusercontent.com/54184905/91653103-3f8e9100-eaa6-11ea-8ee4-b21eb86b79b8.png)](https://github.com/AhmetFurkanDEMIR/Java-Workouts)  [![pngegg](https://user-images.githubusercontent.com/54184905/91659977-e2153700-eadb-11ea-96de-ec8dc5db4eb2.png)](https://github.com/AhmetFurkanDEMIR/C-CPP-Workouts)  [![pngegg(1)](https://user-images.githubusercontent.com/54184905/91659993-f6f1ca80-eadb-11ea-9101-1f2ffcc4c5aa.png)](https://github.com/AhmetFurkanDEMIR/C-CPP-Workouts)
+[![pngegg(2)](https://img.shields.io/badge/Java--cD1?style=for-the-badge&logo=java)](https://github.com/AhmetFurkanDEMIR/Java-Workouts)  [![pngegg](https://img.shields.io/badge/C-Programming_Language-cD1?style=for-the-badge&logo)](https://github.com/AhmetFurkanDEMIR/C-CPP-Workouts)  [![pngegg(1)](https://img.shields.io/badge/C++-Programming_Language-cD1?style=for-the-badge&logo)](https://github.com/AhmetFurkanDEMIR/C-CPP-Workouts)
 
 
 ## The modules I use
