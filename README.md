@@ -2,7 +2,7 @@
 
 <div align="center">
 
-I am a Computer Engineering student at Necmettin Erbakan University. I am developing myself on Artificial Intelligence, Data Science&Engineering, Cloud Computing, GPU/NVIDIA CUDA and Linux.
+I am a Computer Engineering student at Necmettin Erbakan University. I am developing myself on Artificial Intelligence, Data Science&Engineering, Cloud Computing, DevOps, GPU/NVIDIA CUDA and Linux.
 
 
 ### **Connect & Follow Me**
