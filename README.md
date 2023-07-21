@@ -2,7 +2,7 @@
 
 <div align="center">
 
-Hi 👋, I'm Ahmet Furkan DEMIR, a Computer Engineer graduated from Necmettin Erbakan University. I am developing myself on Artificial Intelligence, Data Engineering and DevOps.
+Hi 👋, I'm Ahmet Furkan DEMIR. I graduated from Necmettin Erbakan University Computer Engineering. I am developing myself in Artificial Intelligence, Data Engineering and DevOps.
 
 ### **Connect & Follow Me**
 
