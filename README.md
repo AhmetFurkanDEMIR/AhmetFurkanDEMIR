@@ -1,8 +1,13 @@
 <h1 align="center">Hi, I am Ahmet Furkan DEMIR</h1>
 
 <div align="center">
+  
+Data and Platform Engineer passionate about modern data, cloud, and infrastructure technologies. Designs and manages real-time data pipelines
+with Apache Flink, Spark, and Kafka, writes advanced queries using Trino and Druid, and optimizes ETL pipelines with Apache Airflow.
 
-Hi 👋, I'm Ahmet Furkan DEMIR. I graduated from Necmettin Erbakan University Computer Engineering. I am developing myself in Artificial Intelligence, Data Engineering and DevOps.
+Builds, manages, and scales containerized systems using Kubernetes, Docker, and GitLab CI/CD. Applies a DevOps mindset to ensure secure, high-
+performing CI/CD processes, automated infrastructure, and reliable distributed systems. Develops microservices and data processing solutions
+using Python and Java.
 
 ### **Connect & Follow Me**
 
@@ -37,3 +42,4 @@ Hi 👋, I'm Ahmet Furkan DEMIR. I graduated from Necmettin Erbakan University C
 
 
 </div> 
+
